@@ -1,0 +1,2 @@
+public class Paryush{
+}
