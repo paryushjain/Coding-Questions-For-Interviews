@@ -2,9 +2,8 @@ package com.coding.questions.interviews.leetcode;
 
 /**
  * @author paryjain https://leetcode.com/problems/palindrome-number/
- *Determine
- *         whether an integer is a palindrome. An integer is a palindrome when
- *         it reads the same backward as forward.
+ *Determine whether an integer is a palindrome. An integer is a palindrome when
+ *it reads the same backward as forward.
  *
  */
 public class PalindromeNumber {
