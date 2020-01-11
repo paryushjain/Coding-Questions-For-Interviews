@@ -13,7 +13,7 @@ public class RemoveElement {
 	}
 
 	public static int removeElement(int[] nums, int val) {
-		int i = 0;
+		var i = 0;
 		for (int num : nums) {
 			if (num != val) {
 				nums[i] = num;
