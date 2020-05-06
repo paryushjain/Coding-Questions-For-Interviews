@@ -1,4 +1,4 @@
-package com.coding.questions.interviews;
+package com.coding.questions.interviews.leetcode;
 
 /**
  * @author paryjain
