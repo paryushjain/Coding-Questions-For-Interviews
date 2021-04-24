@@ -10,6 +10,7 @@ package com.coding.questions.interviews.leetcode;
 public class PalindromeNumber {
 
 	public static boolean isPalindrome(int x) {
+		
 		int rev_num = 0;
 		int num = x;
 		while (num > 0) {

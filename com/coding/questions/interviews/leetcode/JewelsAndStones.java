@@ -9,7 +9,7 @@ public class JewelsAndStones {
 
 	public static void main(String[] args) {
 		
-		System.out.println(numJewelsInStones("z","ZZ"));
+		System.out.println(numJewelsInStones("aA","AAAaaabbb"));
 
 	}
 

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="748f792b-0c0e-495d-9c4c-9ee09d503b4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/paryushjain/Coding-Questions-For-Interviews" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m9XcGSBog0JTBeFQEaou42YJnU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/com" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/ParyushWorkspace/event-planner" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.coding.designpatterns.strategy" />
+      <recent name="com.coding.questions.interviews.sortings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paryjain.US\git\Coding-Questions-For-Interviews\com\coding\designpatterns\creational\singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubArrayWithGivenSum">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.questions.interviews.sortings.BubbleSort" />
+      <module name="Coding-Questions-For-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.questions.interviews.sortings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.designpatterns.strategy.Main" />
+      <module name="Coding-Questions-For-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.designpatterns.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.questions.interviews.sortings.MergeSort2" />
+      <module name="Coding-Questions-For-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.questions.interviews.sortings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.questions.interviews.gfg.arrays.SubArrayWithGivenSum" />
+      <module name="Coding-Questions-For-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.questions.interviews.gfg.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.temporary.Temp" />
+      <module name="Coding-Questions-For-Interviews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.temporary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubArrayWithGivenSum" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MergeSort2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="748f792b-0c0e-495d-9c4c-9ee09d503b4c" name="Default Changelist" comment="" />
+      <created>1608906870130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608906870130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1609051083053">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1609051083053" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1615991228368">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1615991228368" />
+    <state x="321" y="81" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608907377129">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="81" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1608907377129" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1609686408288">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1609686408288" />
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.0.center" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.0.left" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.0.right" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.1.bottom" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.1.center" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.1.left" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state width="1237" height="192" key="GridCell.Tab.1.right" timestamp="1617203213197">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1617203213197" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609051180250">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1609051180250" />
+    <state x="452" y="123" key="chooseDestDirectoryDialog" timestamp="1608907598891">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="452" y="123" key="chooseDestDirectoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1608907598891" />
+    <state x="91" y="0" key="new project wizard" timestamp="1611983320308">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1611983320308" />
+    <state x="436" y="92" key="refactoring.ChangeSignatureDialog" timestamp="1615984948183">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="436" y="92" key="refactoring.ChangeSignatureDialog/0.0.1280.689@0.0.1280.689" timestamp="1615984948183" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1617079716003">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1617079716003" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/SelectionSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/leetcode/Test.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/temporary/Temp.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/MergeSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/MergeSort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/MergeSort2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/MergeSort2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/sortings/MergeSort2.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/coding/questions/interviews/gfg/arrays/SubArrayWithGivenSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
