@@ -51,7 +51,6 @@ public class BubbleSort {
 
 	public static int[] doSortingBubble(int a[]) {
 		int temp;
-
 		for(int i=0; i<a.length-1; i++){
 			boolean swapped = false;
 			for(int j=0; j<a.length-i-1;j++){
@@ -62,9 +61,7 @@ public class BubbleSort {
 					a[j+1]=temp;
 				}
 			}
-			if(!swapped){
-				break;
-			}
+			if(!swapped)break;
 		}
 		return a;
 	}
