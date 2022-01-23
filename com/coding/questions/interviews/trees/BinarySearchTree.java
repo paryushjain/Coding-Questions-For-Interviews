@@ -31,10 +31,10 @@ public class BinarySearchTree {
         postOrder(root);
         System.out.println("\nPrinting using LevelOrderTraversal:");
         printUsingLevelOrderTraversal(root);
-       /* System.out.println("\nPrinting left view:");
+        System.out.println("\nPrinting left view:");
         printLeftOrRightView(root,"left");
         System.out.println("\nPrinting right view:");
-        printLeftOrRightView(root,"right");*/
+        printLeftOrRightView(root,"right");
         System.out.println("\nPrinting top view:");
         printTopOrBottomView(root,"top");
         System.out.println("\nPrinting bottom view:");
@@ -118,7 +118,7 @@ public class BinarySearchTree {
     }
 
     static void printLeftOrRightView(Node root, String view){
-        List<Node> list = new ArrayList<>(10);
+        List<Node> list = new ArrayList<>();
         if(view=="left") {
             leftViewUtil(root, list, 0);
         }else{
@@ -129,15 +129,18 @@ public class BinarySearchTree {
 
     static void leftViewUtil(Node root, List<Node> list, int level){
         if(root==null) return;
-        list.add(root);
-        list.set(level,root);
-        leftViewUtil(root.right,list,level+1);
+        if(list.size()<=level){
+            list.add(level,root);
+        }
         leftViewUtil(root.left,list,level+1);
+        leftViewUtil(root.right,list,level+1);
     }
 
     static void rightViewUtil(Node root, List<Node> list, int level){
         if(root==null) return;
-        list.set(level,root);
+        if(list.size()<=level){
+            list.add(level,root);
+        }
         rightViewUtil(root.right,list,level+1);
         rightViewUtil(root.left,list,level+1);
     }
@@ -166,21 +169,6 @@ public class BinarySearchTree {
         topViewUtil(root.right,map,step+1);
     }
 
-
-    void insertNode(int data) {
-        root = insertNode(root, data);
-    }
-
-    Node insertNode(Node root, int data) {
-        if (root == null) {
-            root = new Node(data);
-        } else if (data > root.data) {
-            root.right = insertNode(root.right, data);
-        } else {
-            root.left = insertNode(root.left, data);
-        }
-        return root;
-    }
 
     Node searchNode(Node root,int data){
         if(root == null || root.data == data){
