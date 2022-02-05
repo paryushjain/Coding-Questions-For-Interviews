@@ -24,10 +24,7 @@ public class ParenthesisMatching {
                 }
             }
         }
-        if(stack.empty()){
-            return true;
-        }
-        return false;
+        return stack.empty();
     }
 
     private static boolean isOpeningBracket(char c){

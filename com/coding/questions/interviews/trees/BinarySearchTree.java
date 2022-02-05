@@ -169,6 +169,15 @@ public class BinarySearchTree {
         topViewUtil(root.right,map,step+1);
     }
 
+    static boolean searchingInBinarySearchTree(Node root, int x){
+        if(null == root) return false;
+        if(x == root.data) return true;
+        if(root.data>x){
+            return searchingInBinarySearchTree(root.left,x);
+        }
+        return searchingInBinarySearchTree(root.right,x);
+    }
+
 
     Node searchNode(Node root,int data){
         if(root == null || root.data == data){
